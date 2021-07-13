@@ -1,3 +1,20 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 20px 300px 20px 300px 20px 300px;
+}
+
+.item1 {
+    grid-column: 2;
+}
+
+.item1 {
+    grid-column: 4;
+}
+
+.item1 {
+    grid-column: 6;
+}
+
 .card {
     font-family: Roboto;
     height: 410px;
