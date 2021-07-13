@@ -2,6 +2,7 @@
     font-family: Roboto;
     height: 410px;
     width: 300px;
+    border-color: #333333;
 }
 
 .card-image {
@@ -41,5 +42,15 @@
 }
 
 .basket {
+    float: right;
+    margin-right: 25px;
+    /* display: inline-block; */
+    background-color: #4ED17B;
+    height: 40px;
+    width: 50px;
+    border-radius: 5%;
+}
 
+.basket > i {
+    margin-left: 8px;
 }
