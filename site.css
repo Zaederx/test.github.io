@@ -19,7 +19,7 @@
     font-family: Roboto;
     height: 410px;
     width: 300px;
-    border: 1px solid #666666;
+    border: 1px solid #E2E2E2;
 }
 
 .card-image {
@@ -35,7 +35,7 @@
 }
 
 .card-text {
-    text-align: center;
+    text-align: left;
     height: 205px;
     width: 300px;
     padding-left: 25px;
@@ -49,7 +49,8 @@
 }
 
 .card-description {
-    margin-top: 30px;
+    margin-top: 10px;
+    width: 200px;
     font-size: 15px;
 }
 
