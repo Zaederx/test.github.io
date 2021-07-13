@@ -10,7 +10,14 @@
     margin: 0px;
 }
 
+.card-image > img {
+    height: 205px;
+    width: 300px;
+    margin: 0px;
+}
+
 .card-text {
+    text-align: center;
     height: 205px;
     width: 300px;
     padding-left: 25px;
@@ -20,14 +27,17 @@
 
 .card-title {
     /* margin-top: 30px; */
+    font-size: 20px;
 }
 
 .card-description {
     margin-top: 30px;
+    font-size: 15px;
 }
 
 .card-price-basket {
     margin-top: 30px;
+    font-size: 35px;
 }
 
 .basket {
